@@ -22,3 +22,4 @@ este es el mongo dblocal
 y este es el mongo db en la nube 
 ![mongonube](https://user-images.githubusercontent.com/66538886/127724968-dac98c6f-313d-4278-ab88-fb9d11c9e7cd.jpg)
 y para el punto 9 y 10 lo que hice es conectarme al mongodb atlas atraves del compas y luego exportarlos uno por uno
+![exportacion](https://user-images.githubusercontent.com/66538886/127725303-ab95d2f2-f442-4c28-89e5-96ad4f7b5f64.jpg)
